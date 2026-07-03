@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build and test output
+dist/
+build/
+coverage/
+out/
+.cache/
+.tmp/
+tmp/
+
+# Lockfiles and generated indexes
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+bun.lockb
+skills-lock.json
+
+# Local/editor noise
+.DS_Store
+*.log
+
+# Installed or generated agent targets
+.agents/skills/
+.claude/

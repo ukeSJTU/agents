@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Personal",
+      "description": "Skills tuned for my own agent workflows.",
+      "skills": ["skills"]
+    }
+  ]
+}
