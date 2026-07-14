@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文研读"
+  short_description: "以原文证据为核心的学术论文三遍研读、核验与可回溯记录"
+  default_prompt: "Use $paper-read to create a three-pass, evidence-traceable reading record for this paper PDF; reading depth: 精读。"
